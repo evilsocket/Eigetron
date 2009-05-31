@@ -1,0 +1,9 @@
+Eigetron by Simone Margaritelli
+<evilsocket@gmail.com - http://www.evilsocket.net>
+
+Face recognition program that uses Eigen faces with a fast Jacobi eigen decomposition .
+
+tnx to :
+
+- "Numerical Recipes in C" :P
+- Shubhendu Trivedi - http://onionesquereality.wordpress.com/
